@@ -1,9 +1,9 @@
 /* PERSONALISE THESE DETAILS BEFORE PUBLISHING */
 const SITE_CONFIG = {
   instagram: "https://www.instagram.com/weddingsbyvvk/",
-  email: "photosbyvvk@gmail.com",       // Replace with your business email
-  whatsapp: "919340391284",              // Country code + number, digits only. Example: 919876543210
-  featuredVideo: "https://www.youtube.com/watch?v=uL-7vLkJnQY&list=PLEMjsayVsdaM" // Replace VIDEO_ID with your YouTube video ID
+  email: "YOUR_EMAIL@example.com",       // Replace with your business email
+  whatsapp: "91XXXXXXXXXX",              // Country code + number, digits only. Example: 919876543210
+  featuredVideo: "https://www.youtube.com/embed/VIDEO_ID" // Replace VIDEO_ID with your YouTube video ID
 };
 
 document.getElementById("year").textContent = new Date().getFullYear();

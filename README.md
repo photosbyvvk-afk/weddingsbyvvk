@@ -23,8 +23,8 @@ The current images in `assets/images/` are elegant SVG placeholders, not real we
 
 | Current file | Used for |
 |---|---|
-| `hero.svg` | Main homepage background |
-| `gallery-01.svg` to `gallery-06.svg` | Portfolio grid |
+| `hero.jpg` | Main homepage background |
+| `gallery-01.jpg` to `gallery-06.jpg` | Portfolio grid |
 | `film-poster.svg` | Featured cinematic film thumbnail |
 
 ### Easiest replacement method
