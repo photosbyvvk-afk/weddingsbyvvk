@@ -11,13 +11,13 @@ const emailLink = document.getElementById("emailLink");
 if (SITE_CONFIG.email && !SITE_CONFIG.email.includes("YOUR_EMAIL")) {
   emailLink.href = `mailto:${SITE_CONFIG.email}`;
 } else {
-  emailLink.href = "mailto:YOUR_EMAIL@example.com";
+  emailLink.href = "mailto:photosbyvvk@gmail.com";
 }
 const whatsappLink = document.getElementById("whatsappLink");
 if (SITE_CONFIG.whatsapp && !SITE_CONFIG.whatsapp.includes("X")) {
   whatsappLink.href = `https://wa.me/${SITE_CONFIG.whatsapp}`;
 } else {
-  whatsappLink.href = "https://wa.me/91XXXXXXXXXX";
+  whatsappLink.href = "https://wa.me/919340391284";
 }
 
 // Mobile navigation
